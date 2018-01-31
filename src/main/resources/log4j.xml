@@ -27,7 +27,7 @@
 	<logger name="org.springframework.core">
 		<level value="warn" />
 	</logger>
-
+ 
 	<logger name="org.springframework.beans">
 		<level value="warn" />
 	</logger>
@@ -44,7 +44,7 @@
 		<level value="warn" />
 	</logger>
 
-	<!-- Root Logger -->
+	<!-- Root Logger -->   
 	<root>
 		<priority value="warn" />
 		<appender-ref ref="console" />
